@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tanuj Singh
 - 👀 I’m passionate about Software testing
-- 🌱 I’m currently performing testin activities using latest testing tools which are new in industry.
+- 🌱 I’m currently performing testing activities using latest testing tools which are new in industry.
 - 💞️ I’m looking to collaborate on Software testing related stuffs.
 - 📫 You can reach me at- itstanuj@hotmail.com, Mob.- 9506812812
 
